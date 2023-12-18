@@ -1,0 +1,4 @@
+#  Git will not track these files 
+# The leading / ensures that Git only ignores these directories at the root level and not in subdirectories.
+/bin/
+/obj/
